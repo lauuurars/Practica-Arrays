@@ -5,6 +5,5 @@ let frutas = ["fresa", "arandanos", "banano", "cereza", "kiwi"] //definimos arra
 
 console.log(frutas) //se imprime el array original
 
-let indiceCereza = frutas[3] //agregamos variable que representa el indice del elemento cereza
+console.log(frutas[3]) //se imprime el elemento en la posición 3 del array
 
-console.log(indiceCereza) //se imprime el valor de la variable indiceCereza
